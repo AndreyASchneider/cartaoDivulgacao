@@ -1,0 +1,21 @@
+.container{
+    text-align: justify;
+    width: 400px;
+    height: 201px;
+    background-image: url(apoio/backgorund.png);
+    background-repeat: no-repeat;
+    padding: 10px;
+}
+
+#insta{
+    list-style-image: url(apoio/Insta.png);
+}
+
+#tt{
+    list-style-image: url(apoio/Twitter.png);
+}
+
+#yt{
+    list-style-image: url(apoio/Youtube.png);
+}
+
